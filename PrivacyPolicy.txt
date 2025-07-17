@@ -1,0 +1,1 @@
+No data of any kind is transmitted to or collected by the developer. All data transmitted by this extension is sent only to a user-configured Webhook URL.
